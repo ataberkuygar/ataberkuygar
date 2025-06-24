@@ -11,7 +11,7 @@
 - **Other:** Git, VS Code, Linux
 
 ### 📌 Projects
-- 🚴 [Exercise AI Game](https://github.com/yourrepo): Real-time feedback game using body pose detection
+- 🚴 [Exercise AI Game](https://github.com/ataberkuygar/exercisegame)): Real-time feedback game using body pose detection
 - 🤖 [Unsloth Fine-tuning](https://github.com/yourrepo): Fine-tuned LLM for task-specific use
 - 📊 [Customer Purchase Analysis](https://github.com/yourrepo): Basic EDA with charts and insights
 

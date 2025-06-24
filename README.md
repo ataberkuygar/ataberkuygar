@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ataberk Uygar Kaçan
+# 👋 Hi, I'm Ataberk Uygar
 
 🎓 Computer Engineering Student  
 🔬 Passionate about Data Analysis, AI Agents, and Machine Learning  

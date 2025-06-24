@@ -12,7 +12,8 @@
 
 ### 📌 Projects
 - 🚴 [Exercise AI Game](https://github.com/ataberkuygar/exercisegame): Real-time feedback game using body pose detection
-- 🤖 [Unsloth Fine-tuning]: Fine-tuned LLM for task-specific use
-- 📊 [Customer Purchase Analysis]: Basic EDA with charts and insights
+- 🤖 Unsloth Fine-tuning]: Fine-tuned LLM for task-specific use
+- 📫 ToSumUp- Extractive Summarization App
+- 📊 Ai Car Voice Assistant Agent with MCP Servers for services (In Progress)
 
 📫 Reach out: [LinkedIn](https://linkedin.com/in/ataberk-uygar)

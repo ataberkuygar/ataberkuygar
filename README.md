@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ataberk Uygar Kaçan
 
-<!--
-**ataberkuygar/ataberkuygar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+🔬 Passionate about Data Analysis, AI Agents, and Machine Learning  
+📍 Currently based in Germany, seeking internship opportunities in AI/Data fields.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Languages:** Python, SQL
+- **Tools:** Pandas, NumPy, scikit-learn, OpenCV, Matplotlib, MediaPipe, Jupyter
+- **AI:** Transformers (Unsloth, HuggingFace), Reinforcement Learning, Chatbots
+- **Other:** Git, VS Code, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- 🚴 [Exercise AI Game](https://github.com/yourrepo): Real-time feedback game using body pose detection
+- 🤖 [Unsloth Fine-tuning](https://github.com/yourrepo): Fine-tuned LLM for task-specific use
+- 📊 [Customer Purchase Analysis](https://github.com/yourrepo): Basic EDA with charts and insights
+
+📫 Reach out: [Your email] | [LinkedIn](https://linkedin.com/in/your-profile)

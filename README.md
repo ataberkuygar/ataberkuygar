@@ -15,4 +15,4 @@
 - 🤖 [Unsloth Fine-tuning](https://github.com/yourrepo): Fine-tuned LLM for task-specific use
 - 📊 [Customer Purchase Analysis](https://github.com/yourrepo): Basic EDA with charts and insights
 
-📫 Reach out: [LinkedIn](www.linkedin.com/in/ataberk-uygar)
+📫 Reach out: [Your email] | [LinkedIn](https://linkedin.com/in/ataberk-uygar)

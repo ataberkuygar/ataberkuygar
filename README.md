@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ataberk Uygar
-
-🎓 Computer Engineering Student  
+ 
 🔬 Passionate about Data Analysis, AI Agents, and Machine Learning  
 📍 Currently based in Germany, seeking internship opportunities in AI/Data fields.
 

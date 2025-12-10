@@ -11,7 +11,7 @@
 
 ### 📌 Projects
 - 🚴 [Exercise AI Game](https://github.com/ataberkuygar/exercisegame): Real-time feedback game using body pose detection
-- 🤖 Unsloth Fine-tuning]: Fine-tuned LLM for task-specific use
+- 🤖 Unsloth Fine-tuning: Fine-tuned LLM for task-specific use
 - 📫 ToSumUp- Extractive Summarization App
 - 📊 Project Caesar (In Progress)
 

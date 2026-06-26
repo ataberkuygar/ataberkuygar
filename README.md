@@ -15,4 +15,4 @@
 - 📫 ToSumUp- Extractive Summarization App
 - 📊 Project Caesar (In Progress)
 
-📫 Reach out: [LinkedIn](https://linkedin.com/in/ataberk-uygar)
+
